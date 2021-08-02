@@ -2,6 +2,7 @@
 ## Installations requises
 - __[VSCode](https://code.visualstudio.com/)__ - Édition du code source
   - __[Swissknife](https://marketplace.visualstudio.com/items?itemName=luisfontes19.vscode-swissknife)__ - Collection d'extensions pour VSCode
+  - __[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)__ - Extension serveur HTTP local
 - __[GIT](https://git-scm.com/downloads)__ - Contrôle des versions du code source
 - __[NodeJS](https://nodejs.org/)__ - Gestion des librairies avec 'npm'
 ## Commencer un nouveau projet
@@ -22,7 +23,7 @@
 ```
 ### Installation des librairies et démarrage de l'environnement de développement
     npm install
-    npm start
+    npm run dev
 ### Compilation d'une version prête au déploiement dans '/dist'
     npm run build
 ## Documentations externes
