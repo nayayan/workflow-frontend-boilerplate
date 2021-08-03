@@ -33,7 +33,7 @@
 | -------------------------: | ----------: |
 | ./package.json             | Description et configuration du projet. |
 | ./index.html               | Point d'entrée. |
-| ./dist                     | Version de distribution compilée. |
+| ./dist                     | Version compilée. |
 | ./src                      | Code source. |
 | ./src/js                   | Script JS principal. |
 | ./src/scss                 | Feuilles de styles SASS. |
