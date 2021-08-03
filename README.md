@@ -4,7 +4,7 @@
   - __[Swissknife](https://marketplace.visualstudio.com/items?itemName=luisfontes19.vscode-swissknife)__ - Collection d'extensions pour VSCode.
   - __[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)__ - Extension serveur HTTP local.
 - __[GIT](https://git-scm.com/downloads)__ - Contrôle des versions du code source.
-- __[NodeJS](https://nodejs.org/)__ - Gestion des librairies avec 'npm'.
+- __[NodeJS](https://nodejs.org/)__ - Gestion des librairies 'npm'.
 ## Nouveau projet
 ### Création du code source
     git clone https://github.com/noreading/bootstrap5-webpack-boilerplate.git nouveau-projet
